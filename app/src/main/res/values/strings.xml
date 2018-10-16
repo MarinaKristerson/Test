@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="hello">Hello colleagues!</string>
+    <string name="et_Hint">Введите текст</string>
+    <string name="btn_text">Push the button</string>
+    <string name="btn_google">Запустить поиск в Google</string>
+</resources>
